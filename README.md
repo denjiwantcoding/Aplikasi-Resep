@@ -32,5 +32,37 @@ Aplikasi ini dibuat dengan pendekatan desain **modern minimalis** serta mendukun
 |  **Pengaturan (Settings Screen)** | `settings_screen.dart` | Mengatur mode gelap/terang dan menampilkan versi aplikasi. |
 
 ---
+## Langkah Menjalankan Aplikasi
 
+## DISCLAMER:
+## saya sudah manambahkan file lengkap di link gdrive karena di github semua file tidak bisa terupload
+
+### 1️⃣ Persiapan Awal
+Pastikan perangkat sudah memiliki:
+- **Flutter SDK** (versi minimal 3.0.0)
+- **Android Studio** atau **VS Code**
+- **Device Emulator** atau smartphone dengan mode developer aktif
+
+### 2️⃣ Clone atau Unduh Proyek
+bash
+git clone 
+cd aplikasi_resep
+### 3️⃣ Install Dependencies
+Jalankan perintah berikut di terminal proyek:
+
+bash
+Copy code
+flutter pub get
+### 4️⃣ Jalankan Aplikasi
+Untuk menjalankan di emulator atau perangkat nyata:
+
+bash
+Copy code
+flutter run
+### 5️⃣ Build Aplikasi (Opsional)
+Untuk membuat file APK:
+
+bash
+Copy code
+flutter build apk --release
 
