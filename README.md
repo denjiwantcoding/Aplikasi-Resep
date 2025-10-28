@@ -29,7 +29,7 @@ Aplikasi ini dibuat dengan pendekatan desain **modern minimalis** serta mendukun
 |  **Daftar Resep (Recipe List Screen)** | `recipe_list_screen.dart` | Menampilkan daftar resep berdasarkan kategori yang dipilih. |
 |  **Detail Resep (Recipe Detail Screen)** | `recipe_detail_screen.dart` | Menampilkan bahan, langkah memasak, dan tombol “Tambah ke Favorit”. |
 |  **Favorit (Favorites Screen)** | `favorites_screen.dart` | Menampilkan resep yang disimpan sebagai favorit oleh pengguna. |
-|  **Pengaturan (Settings Screen)** | `settings_screen.dart` | Mengatur mode gelap/terang dan menampilkan versi aplikasi. |
+|  **Pengaturan (Settings Screen)** | `settings_screen.dart` | Menampilkan versi aplikasi. |
 
 ---
 ## Langkah Menjalankan Aplikasi
